@@ -1,0 +1,49 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.12/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.12",
+  "id": "c62cc710-62b5-11ee-a253-a71d279a1b29",
+  "version": "0.0.2",
+  "packageName": "bugpostmessageios",
+  "developer": {
+    "name": "Nikolay Belykh",
+    "websiteUrl": "https://live-dingo-upright.ngrok-free.app",
+    "privacyUrl": "https://live-dingo-upright.ngrok-free.app/privacy.html",
+    "termsOfUseUrl": "https://live-dingo-upright.ngrok-free.app/tou.html"
+  },
+  "name": {
+    "short": "Projects",
+    "full": "Projects"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [],
+  "staticTabs": [
+    {
+      "entityId": "7bded667-e86b-43ff-b4ea-aee169485c82",
+      "name": "Projects Tab",
+      "contentUrl": "https://live-dingo-upright.ngrok-free.app/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
+      "websiteUrl": "https://live-dingo-upright.ngrok-free.app/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
+      "scopes": [
+        "personal"
+      ]
+    }
+  ],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "live-dingo-upright.ngrok-free.app"
+  ],
+  "showLoadingIndicator": false
+}

@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Nikolay Belykh"
+    },
+    "libraryName": "bugPostmessageIos",
+    "generator-version": "4.0.1"
+  }
+}
