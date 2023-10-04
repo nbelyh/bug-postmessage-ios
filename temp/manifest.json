@@ -6,9 +6,9 @@
   "packageName": "bugpostmessageios",
   "developer": {
     "name": "Nikolay Belykh",
-    "websiteUrl": "https://live-dingo-upright.ngrok-free.app",
-    "privacyUrl": "https://live-dingo-upright.ngrok-free.app/privacy.html",
-    "termsOfUseUrl": "https://live-dingo-upright.ngrok-free.app/tou.html"
+    "websiteUrl": "https://bug-postmessage-ios.unmanagedvisio.com",
+    "privacyUrl": "https://bug-postmessage-ios.unmanagedvisio.com/privacy.html",
+    "termsOfUseUrl": "https://bug-postmessage-ios.unmanagedvisio.com/tou.html"
   },
   "name": {
     "short": "Projects",
@@ -28,8 +28,8 @@
     {
       "entityId": "7bded667-e86b-43ff-b4ea-aee169485c82",
       "name": "Projects Tab",
-      "contentUrl": "https://live-dingo-upright.ngrok-free.app/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
-      "websiteUrl": "https://live-dingo-upright.ngrok-free.app/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
+      "contentUrl": "https://bug-postmessage-ios.unmanagedvisio.com/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
+      "websiteUrl": "https://bug-postmessage-ios.unmanagedvisio.com/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
       "scopes": [
         "personal"
       ]
@@ -43,7 +43,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "live-dingo-upright.ngrok-free.app"
+    "bug-postmessage-ios.unmanagedvisio.com"
   ],
   "showLoadingIndicator": false
 }
