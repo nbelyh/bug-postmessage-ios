@@ -4,5 +4,7 @@ node_modules
 # do not include the package in Git
 package
 
+temp
+
 # do not include the Connectors Json Db file
 connectors.json

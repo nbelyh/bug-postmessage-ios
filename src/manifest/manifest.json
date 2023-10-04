@@ -11,8 +11,8 @@
     "termsOfUseUrl": "https://{{PUBLIC_HOSTNAME}}/tou.html"
   },
   "name": {
-    "short": "Projects",
-    "full": "Projects"
+    "short": "bug-postmessage-ios",
+    "full": "bug-postmessage-ios"
   },
   "description": {
     "short": "TODO: add short description here",
@@ -27,7 +27,7 @@
   "staticTabs": [
     {
       "entityId": "7bded667-e86b-43ff-b4ea-aee169485c82",
-      "name": "Projects Tab",
+      "name": "bug-postmessage-ios",
       "contentUrl": "https://{{PUBLIC_HOSTNAME}}/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
       "websiteUrl": "https://{{PUBLIC_HOSTNAME}}/projectsTab/?name={loginHint}&tenant={tid}&theme={theme}",
       "scopes": [
